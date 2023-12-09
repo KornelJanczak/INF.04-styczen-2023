@@ -8,7 +8,7 @@ namespace INF_04_2023_styczen_algorytm_euklidesa
 {
     internal static class Program
     {
-       public static void Main() //zawiera operacje wejścia/wyjścia
+       public static void Main() 
         {
 
             int firstNumber = int.Parse(Console.ReadLine());
@@ -19,6 +19,7 @@ namespace INF_04_2023_styczen_algorytm_euklidesa
             Console.ReadLine();
         }
 
+        
         private static int FindNumber(int a, int b) {
             int NWD;
             while (a != b)
