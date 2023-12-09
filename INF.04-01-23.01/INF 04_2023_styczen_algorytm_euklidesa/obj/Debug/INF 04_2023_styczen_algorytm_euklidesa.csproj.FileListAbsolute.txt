@@ -1,0 +1,7 @@
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\INF 04_2023_styczen_algorytm_euklidesa\bin\Debug\INF 04_2023_styczen_algorytm_euklidesa.exe.config
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\INF 04_2023_styczen_algorytm_euklidesa\bin\Debug\INF 04_2023_styczen_algorytm_euklidesa.exe
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\INF 04_2023_styczen_algorytm_euklidesa\bin\Debug\INF 04_2023_styczen_algorytm_euklidesa.pdb
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\INF 04_2023_styczen_algorytm_euklidesa\obj\Debug\INF 04_2023_styczen_algorytm_euklidesa.csproj.AssemblyReference.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\INF 04_2023_styczen_algorytm_euklidesa\obj\Debug\INF 04_2023_styczen_algorytm_euklidesa.csproj.CoreCompileInputs.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\INF 04_2023_styczen_algorytm_euklidesa\obj\Debug\INF 04_2023_styczen_algorytm_euklidesa.exe
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\INF 04_2023_styczen_algorytm_euklidesa\obj\Debug\INF 04_2023_styczen_algorytm_euklidesa.pdb
